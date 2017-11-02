@@ -5,7 +5,7 @@
 pthread_t tid[100];
 
 char word[1500];
-char search[100];
+char search[200];
 int i = 1;
 
 void *cek() {
